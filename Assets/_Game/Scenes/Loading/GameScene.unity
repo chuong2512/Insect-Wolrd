@@ -1297,7 +1297,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -4129,6 +4129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   history: 
+  listID: []
   CellIcons:
   - {fileID: 1445548181}
   - {fileID: 1631930559}
@@ -4502,6 +4503,14 @@ PrefabInstance:
     - target: {fileID: 8068837163610797119, guid: ed6ce976afc56df4b9168cae275c4296, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068837163677461600, guid: ed6ce976afc56df4b9168cae275c4296, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -2295.1965
+      objectReference: {fileID: 0}
+    - target: {fileID: 8068837164011591800, guid: ed6ce976afc56df4b9168cae275c4296, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -2295.1965
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

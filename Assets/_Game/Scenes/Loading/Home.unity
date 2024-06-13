@@ -176,7 +176,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -260,7 +260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 573255311888981928, guid: b36d6aa8ccfcd8e4b9435e23200d2efe, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -2121.244
       objectReference: {fileID: 0}
     - target: {fileID: 573255311888981928, guid: b36d6aa8ccfcd8e4b9435e23200d2efe, type: 3}
       propertyPath: m_SizeDelta.y
@@ -366,7 +366,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8068837163610797119, guid: ed6ce976afc56df4b9168cae275c4296, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -2121.244
       objectReference: {fileID: 0}
     - target: {fileID: 8068837163610797119, guid: ed6ce976afc56df4b9168cae275c4296, type: 3}
       propertyPath: m_SizeDelta.y
@@ -530,8 +530,8 @@ Camera:
   m_GameObject: {fileID: 615795565}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.9294118, g: 1, b: 0.81568635, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -828,7 +828,7 @@ MonoBehaviour:
         mscorlib
     - Name: 
       Entry: 12
-      Data: 6
+      Data: 4
     - Name: 
       Entry: 7
       Data: 1|ChuongCustom.IAPSingleValueData, Assembly-CSharp
@@ -852,7 +852,7 @@ MonoBehaviour:
       Data: con_trung_goi_2
     - Name: price
       Entry: 1
-      Data: 1.99$
+      Data: 2.99$
     - Name: value
       Entry: 3
       Data: 0
@@ -883,36 +883,6 @@ MonoBehaviour:
     - Name: price
       Entry: 1
       Data: 9.99$
-    - Name: value
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 5|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: con_trung_goi_5
-    - Name: price
-      Entry: 1
-      Data: 19.99$
-    - Name: value
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 6|ChuongCustom.IAPSingleValueData, Assembly-CSharp
-    - Name: productID
-      Entry: 1
-      Data: con_trung_goi_6
-    - Name: price
-      Entry: 1
-      Data: 49.99$
     - Name: value
       Entry: 3
       Data: 0
